@@ -1,4 +1,4 @@
-### Hi there!<img src="https://github.com/Megha-Bose/Megha-Bose/blob/main/hi.gif" width="30" height="30" />
+### Hi there!<img src="https://github.com/Megha-Bose/Megha-Bose/blob/main/hi.gif" width="20" height="20" />
 <!--- 📫 How to reach me: megha.bose@research.iiit.ac.in
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Megha-Bose&show_icons=true&theme=tokyonight" />
